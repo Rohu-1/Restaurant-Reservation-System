@@ -1,0 +1,7 @@
+[
+    {"name": "Foodie Delight", "area": "Downtown", "cuisine": "Italian", "capacity": 50},
+    {"name": "Spicy Hub", "area": "Uptown", "cuisine": "Indian", "capacity": 40},
+    {"name": "Sushi Zen", "area": "Midtown", "cuisine": "Japanese", "capacity": 30}
+    
+  ]
+  
